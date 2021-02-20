@@ -1,4 +1,4 @@
-# Stock_Trade_Advising_App - *TraderBot*
+# TraderBot - *Stock Trade Advising App*
 
 **TraderBot** is an android app that advises short-term stock sellers on what stocks they should sell, buy, or hold. TraderBot is created with Java, Python, Firebase, and Chaquopy. Users can add companies to their watchlist and visualize the stock price fluctuation of such stocks.
 

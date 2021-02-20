@@ -27,14 +27,14 @@ The following functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <p float="left">
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Login.png' width=125/>
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_HomePage.png' width=125/>
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Navigation.png' width=125/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Login.png' width=175/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_HomePage.png' width=175/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Navigation.png' width=175/>
 </p>
 <p float="left">
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Search.png' width=125/>
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Watchlist.png' width=125/>
-<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Graph.png' width=125/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Search.png' width=175/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Watchlist.png' width=175/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/blob/master/TB_ImageDemos/TB_Graph.png' width=175/>
 </p>
 
 ## Notes

@@ -1,4 +1,4 @@
-# Stock_Trade_Advising_App
+# Stock_Trade_Advising_App - *TraderBot*
 
 **TraderBot** is an android app that advises short-term stock sellers on what stocks they should sell, buy, or hold. TraderBot is created with Java, Python, Firebase, and Chaquopy. Users can add companies to their watchlist and visualize the stock price fluctuation of such stocks.
 
@@ -26,9 +26,13 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src="https://github.com/Angelica-M/Flixster/blob/master/demoFlixster2.1.gif" width=250><br>
-<img src="https://github.com/Angelica-M/Flixster/blob/master/demoFlixster2.2.gif" width=525><br>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Graph.png' title='Graph' width=''/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Graph.png' width=250/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_HomePage.png' width=250/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Login.png' width=250/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Navigation.png' width=250/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Search.png' width=250/>
+<img src='https://github.com/Angelica-M/Stock_Trade_Advising_App/tree/master/TB_ImageDemos/TB_Watchlist.png' width=250/>
 
 ## Notes
 
